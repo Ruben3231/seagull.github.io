@@ -60,7 +60,7 @@ body {
 	opacity: 0;
 }
 
-/* DARK MODE OS */
+/* дарк мод ОС */
 
 @media (prefers-color-scheme: dark) {
 	body {
